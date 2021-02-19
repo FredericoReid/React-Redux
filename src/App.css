@@ -1,0 +1,11 @@
+.Container{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 15%;
+    background-color: rgb(114, 199, 57);
+    border-radius: 7%;
+}
+
+.App{
+    margin-left: 25%;
+}
